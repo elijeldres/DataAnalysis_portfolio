@@ -15,6 +15,7 @@ Welcome to my Data Analysis repository. Individual project repositories, each fo
 - [Welcome](#welcome)
 - [Portfolio Projects](#portfolio-projects)
   + [Date and Drinks](#date_and_drinks)
+  + [Titanic Passengers](#titanic_passengers)
 
 - [Learn and Community](#learn_and_community)
 
@@ -37,11 +38,28 @@ Join the conversation and share your own date night drink favorite, for me is Re
 **Results:** According to the analytical and user-friendly dashboard insights, men are more likely to opt for casual drinks on dates, whereas women prefer classic wines. The dashboard, which was created with Tableau, effectively supports this idea and provides an   
 engaging way to explore the fascinating world of date night drinks. You are sincerely invited to delve into the dashboard and share your preferred date night drink.
 
+### Titanic Passengers
+**Tableau Public:** [`dashboard`](https://public.tableau.com/views/TitanicPassengers_16914017462870/Titanicpassengers?:language=en-GB&:display_count=n&:origin=viz_share_link)
+**Technology:** Tableau.
+
+**Source:** [kaggle](https://www.kaggle.com/datasets/fossouodonald/titaniccsv)
+
+**Skills:** Data visualization, designing an analytical dashboard.
+
+**Description:** Tableau Public dashboard. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+**Results:** The survival of a young, unmarried, third-class man in the sinking of the Titanic is portrayed in the 1997 movie "Titanic". The film blends both factual and fictional elements to explore the plausibility of such an occurrence. Ultimately, it seems highly improbable that Jack could have made it out alive. 
+
+
+
+
+
 ## Learn & Community
 **[Kaggle](https://www.kaggle.com/elizabethjeldres):** is the world's largest data science community with powerful tools and resources to help you achieve your data science goals.
 
 - intro programming.
-- intro machine Learning.
+- intro Machine Learning.
 - Pandas.
 - Data Visualization.
   
