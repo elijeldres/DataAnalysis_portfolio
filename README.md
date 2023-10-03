@@ -16,6 +16,7 @@ Welcome to my Data Analysis repository. Individual project repositories, each fo
 - [Portfolio Projects](#portfolio-projects)
   + [Date and Drinks](#date_and_drinks)
   + [Titanic Passengers](#titanic_passengers)
+  + [Titanic_machineLearning](#titanic_machilelearning)
 
 - [Learn and Community](#learn_and_community)
 
@@ -51,7 +52,11 @@ While there was some element of luck involved in surviving, it seems some groups
 
 **Results:** The survival of a young, unmarried, third-class man in the sinking of the Titanic is portrayed in the 1997 movie "Titanic". The film blends both factual and fictional elements to explore the plausibility of such an occurrence. Ultimately, it seems highly improbable that Jack could have made it out alive. 
 
+### Titanic_MachineLearning
 
+**Github Repository:** [Titanic](https://github.com/elijeldres/Titanic_MachineLearning)
+
+** Kaggle Competition:** [submissions](https://www.kaggle.com/competitions/titanic/submissions)
 
 
 
