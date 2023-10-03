@@ -56,7 +56,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 **Github Repository:** [Titanic](https://github.com/elijeldres/Titanic_MachineLearning)
 
-** Kaggle Competition:** [submissions](https://www.kaggle.com/competitions/titanic/submissions)
+**Kaggle Competition:** [submissions](https://www.kaggle.com/competitions/titanic/submissions)
 
 
 
