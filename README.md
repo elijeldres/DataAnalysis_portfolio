@@ -1,4 +1,6 @@
 # DataAnalysis_portfolio
+![DataAnalyst](https://github.com/elijeldres/DataAnalysis_portfolio/blob/main/dataanalyst.png)
+
 
 ## Welcome
 
